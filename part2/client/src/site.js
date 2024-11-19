@@ -1,4 +1,4 @@
-import {sendMessageToApi} from "../svc/api.js"
+import {sendMessageToApi} from "./svc/api.js"
 import {displayMessages} from "./ui/ui.js"
 
 
